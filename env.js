@@ -1,5 +1,5 @@
 // API地址my.hxcq.cc
-window.routerBase = 'https://my.hxcq.cc/'
+window.routerBase = 'https://user.hxcq.cc/'
 window.settings = {
   // 站点名称
   title: '红杏出墙',
