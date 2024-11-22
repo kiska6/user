@@ -1,5 +1,5 @@
-// API地址
-window.routerBase = 'http://127.0.0.1:8000/'
+// API地址my.hxcq.cc
+window.routerBase = 'https://my.hxcq.cc/'
 window.settings = {
   // 站点名称
   title: 'Xboard',
