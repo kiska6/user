@@ -2,13 +2,13 @@
 window.routerBase = 'https://my.hxcq.cc/'
 window.settings = {
   // 站点名称
-  title: 'Xboard',
+  title: '红杏出墙',
   // 站点描述
-  description: 'Xboard',
+  description: '永久页;红杏出墙.xyz',
   assets_path: '/assets',
   // 主题色
   theme: {
-    color: 'default', //可选default、blue、black、、darkblue
+    color: 'darkblue', //可选default、blue、black、、darkblue
   },
   // 版本号
   version: '0.1.1-dev',
