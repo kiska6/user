@@ -4,7 +4,7 @@ window.settings = {
   // 站点名称
   title: '红杏出墙',
   // 站点描述
-  description: '永久页;红杏出墙.xyz',
+  description: '永久页:红杏出墙.xyz',
   assets_path: '/assets',
   // 主题色
   theme: {
