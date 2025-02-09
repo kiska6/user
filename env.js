@@ -1,10 +1,10 @@
 // API地址my.hxcq.cc
-window.routerBase = 'https://user.hxcq.cc/'
+window.routerBase = 'https://in.dianying.my/'
 window.settings = {
   // 站点名称
-  title: '红杏出墙',
+  title: '电影',
   // 站点描述
-  description: '永久页:红杏出墙.xyz',
+  description: '永久导航：电影.biz',
   assets_path: '/assets',
   // 主题色
   theme: {
